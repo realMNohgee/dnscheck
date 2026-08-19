@@ -1,4 +1,5 @@
 # DNSCheck 🌐
+![CI](https://github.com/realMNohgee/dnscheck/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **DNS record lookup tool with SPF/DMARC parsing.** Zero dependencies, pure Python stdlib.
 
